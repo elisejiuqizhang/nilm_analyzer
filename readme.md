@@ -109,7 +109,10 @@ https://mygit.th-deg.de/tcg/gelap/-/tree/master
 DEDDIAG [Germany]
 https://figshare.com/articles/dataset/DEDDIAG_a_domestic_electricity_demand_dataset_of_individual_appliances_in_Germany/13615073
 
-iAWE [India]
+iAWE [India] - (July 15, 2023) This is currently unavailable for some reason...
 https://drive.google.com/open?id=1c4Q9iusYbwXkCppXTsak5oZZYHfXPmnp
+
+PLAID (Added on July 15, 2023)
+https://kilthub.cmu.edu/articles/dataset/PLAID_2017/11605215
 
 
